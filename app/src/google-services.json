@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564112271218",
+    "project_id": "wosafe-eae06",
+    "storage_bucket": "wosafe-eae06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564112271218:android:fd4874b7e70acca30cdfeb",
+        "android_client_info": {
+          "package_name": "com.shashank.wosafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564112271218-smobsb79lv8ndr0sgtug6jljj9dern3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashank.wosafe",
+            "certificate_hash": "cc619907bb6e69d1ccfa7907771ff88fa3e669c4"
+          }
+        },
+        {
+          "client_id": "564112271218-17iarafj24fenrqvb1673f8hvu5trsha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3y6FcjgQcDjlUroSnAxiq6WPs0Hj4m68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564112271218-17iarafj24fenrqvb1673f8hvu5trsha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
